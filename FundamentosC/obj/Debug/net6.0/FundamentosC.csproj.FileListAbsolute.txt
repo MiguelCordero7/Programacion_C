@@ -1,0 +1,15 @@
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\bin\Debug\net6.0\FundamentosC.exe
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\bin\Debug\net6.0\FundamentosC.deps.json
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\bin\Debug\net6.0\FundamentosC.runtimeconfig.json
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\bin\Debug\net6.0\FundamentosC.dll
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\bin\Debug\net6.0\FundamentosC.pdb
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\obj\Debug\net6.0\FundamentosC.csproj.AssemblyReference.cache
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\obj\Debug\net6.0\FundamentosC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\obj\Debug\net6.0\FundamentosC.AssemblyInfoInputs.cache
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\obj\Debug\net6.0\FundamentosC.AssemblyInfo.cs
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\obj\Debug\net6.0\FundamentosC.csproj.CoreCompileInputs.cache
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\obj\Debug\net6.0\FundamentosC.dll
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\obj\Debug\net6.0\refint\FundamentosC.dll
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\obj\Debug\net6.0\FundamentosC.pdb
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\obj\Debug\net6.0\FundamentosC.genruntimeconfig.cache
+C:\Users\lavan\Documents\Fundamentos C\FundamentosC\FundamentosC\obj\Debug\net6.0\ref\FundamentosC.dll
